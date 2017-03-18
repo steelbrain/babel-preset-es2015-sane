@@ -1,5 +1,7 @@
 # babel-preset-es2015-sane
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/steelbrain/babel-preset-es2015-sane.svg)](https://greenkeeper.io/)
+
 > Babel preset for all es2015 plugins except renegerator.
 
 ## Install
